@@ -48,8 +48,8 @@
                             </a>
                         </div>
                         <div class="col-xs-6 col-sm-4">
-                            <a href="http://www.wallpixa.com/wp-content/uploads/2018/03/Nature-HD-Image-Wallpaper-sea_surface_water_117993_1920x1080-1920x1080.jpg" data-fancybox="gallery" data-caption="Caption #6">
-                                <img src="http://www.wallpixa.com/wp-content/uploads/2018/03/Nature-HD-Image-Wallpaper-sea_surface_water_117993_1920x1080-1920x1080.jpg" alt="">
+                            <a href="https://www.freewalldownload.com/waterfalls-images/3d-amazing-waterfall-wallpapers-hd-pictures-download.jpg" data-fancybox="gallery" data-caption="Caption #6">
+                                <img src="https://www.freewalldownload.com/waterfalls-images/3d-amazing-waterfall-wallpapers-hd-pictures-download.jpg" alt="">
                             </a>
                         </div>
                         <div class="col-xs-6 col-sm-4">

@@ -15,15 +15,15 @@
     <!-- Wrapper for slides -->
     <div class="carousel-inner">
       <div class="item active">
-        <img src="https://hdwallsbox.com/wallpapers/l/1920x1080/26/nature-paradise-boats-thailand-1920x1080-25648.jpg" alt="" style="width:100%;">
+        <img src="https://www.pixelstalk.net/wp-content/uploads/2016/04/Holiday-beach-wallpaper-desktop-images.jpg" alt="" style="width:100%;">
       </div>
 
       <div class="item">
-        <img src="https://hdwallsbox.com/wallpapers/l/1920x1080/63/hills-islands-komodo-dragons-turquoise-waters-beach-1920x1080-62681.jpg" alt="" style="width:100%;">
+        <img src="https://wallpaperscraft.com/image/tropical_resort_vacation_90877_1920x1080.jpg" alt="" style="width:100%;">
       </div>
     
       <div class="item">
-        <img src="https://hdwallsbox.com/wallpapers/l/1920x1080/87/islands-landscapes-paradise-sea-1920x1080-86701.jpg" alt="" style="width:100%;">
+        <img src="http://www.wallpapersbyte.com/wp-content/uploads/2016/06/Thailand-Tropical-Beach-Boats-WallpapersByte-com-1920x1080.jpg" alt="" style="width:100%;">
       </div>
     </div>
 

@@ -37,11 +37,28 @@
                 </div>
             </div>
         </div>
-        <h3>Contacts</h3>
+        
+
+       
+        <div class="container">
+        <div class="row medium-article">
+                <div class="col-xs-12 col-sm-9">
+                <h3>Contacts</h3>             
+  <h1>Address:</h1>
+  <p>Kurzemes iela 26-1, Tukums, LV-3101, Latvija</p> 
+  <h1>Email:</h1>
+  <p>info@info.lv</p>
+  <h1>Phone:</h1>
+  <p>+371 20006329</p>          
+</div>
 <div id="map"></div>
+<div class="col-xs-12 col-sm-3">
 <script async defer
 src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBYXRD4TNgZO-uE5kulhGxjwKMelKxkjyo&callback=initMap">
 </script>
+
+
+
 
     </main>
 </body>
