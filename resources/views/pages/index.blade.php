@@ -23,7 +23,7 @@
       </div>
     
       <div class="item">
-        <img src="http://www.wallpapersbyte.com/wp-content/uploads/2016/06/Thailand-Tropical-Beach-Boats-WallpapersByte-com-1920x1080.jpg" alt="" style="width:100%;">
+        <img src="http://eskipaper.com/images/summer-screensavers-1.jpg" alt="" style="width:100%;">
       </div>
     </div>
 

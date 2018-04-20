@@ -31,8 +31,8 @@
                             </a>
                         </div>
                         <div class="col-xs-6 col-sm-4">
-                            <a href="http://www.wallpapersbyte.com/wp-content/uploads/2016/06/Thailand-Tropical-Beach-Boats-WallpapersByte-com-1920x1080.jpg" data-fancybox="gallery" data-caption="Caption #3">
-                                <img src="http://www.wallpapersbyte.com/wp-content/uploads/2016/06/Thailand-Tropical-Beach-Boats-WallpapersByte-com-1920x1080.jpg" alt="">
+                            <a href="http://www.kinyu-z.net/data/wallpapers/58/904974.jpg" data-fancybox="gallery" data-caption="Caption #3">
+                                <img src="http://www.kinyu-z.net/data/wallpapers/58/904974.jpg" alt="">
                             </a>
                         </div>
                         <div class="col-xs-6 col-sm-4">
